@@ -12,7 +12,7 @@ The LCS problem finds the longest subsequence common to two strings.
 - Shaik Asif Roshan - AP24110011881  
 - M. Sri Hari - AP24110011855  
 - V. Swammy - AP24110011868  
-- Md. Afrid - AP24110011850  
+- Md. Afrid - AP24110011860  
 - Shaik Ismail - AP24110011823  
 
 ---
